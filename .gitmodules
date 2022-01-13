@@ -1,0 +1,3 @@
+[submodule "plotly.js"]
+	path = plotly.js
+	url = https://github.com/plotly/plotly.js.git
